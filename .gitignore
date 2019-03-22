@@ -1,0 +1,8 @@
+.venv
+.env
+env/
+venv/
+ENV/
+pyvenv.cfg
+pip-selfcheck.json
+.python-version
